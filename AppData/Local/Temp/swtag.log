@@ -1,0 +1,273 @@
+2016-10-05 11:45:53 [4632] SWTAG: _info_: __SWTAG_LOG_FILE__
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-05 11:45:53 [4632] SWTAG: _info_: ==========================================
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Start SWTAGGING productName=Adobe Fireworks CS6; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag" returned 0
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag" returned 0
+2016-10-05 11:45:53 [4632] SWTAG: _info_: Created new C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file.
+2016-10-05 11:45:53 [4632] SWTAG: _info_: End SWTAGGING
+2016-10-05 11:45:53 [4632] SWTAG: _info_: ==========================================
+
+
+2016-10-05 11:45:58 [4632] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-05 11:45:58 [4632] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-05 11:45:58 [4632] SWTAG: _info_: ==========================================
+2016-10-05 11:45:58 [4632] SWTAG: _info_: Start SWTAGGING productName=Adobe Fireworks CS6; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-05 11:45:58 [4632] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-05 11:45:58 [4632] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-05 11:45:58 [4632] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-05 11:45:58 [4632] SWTAG: _info_: End SWTAGGING
+2016-10-05 11:45:58 [4632] SWTAG: _info_: ==========================================
+
+
+2016-10-07 09:17:11 [2348] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 09:17:11 [2348] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 09:17:11 [2348] SWTAG: _info_: ==========================================
+2016-10-07 09:17:11 [2348] SWTAG: _info_: Start SWTAGGING productName=Adobe Premiere Pro CC 2015; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-07 09:17:11 [2348] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 09:17:11 [2348] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 09:17:11 [2348] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 09:17:11 [2348] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 09:17:11 [2348] SWTAG: _info_: End SWTAGGING
+2016-10-07 09:17:11 [2348] SWTAG: _info_: ==========================================
+
+
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 09:17:18 [1916] SWTAG: _info_: ==========================================
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Start SWTAGGING productName=abc; licensingCode=AcrobatPro-AS1-Win-GM; locale=MUL; caller=1
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 09:17:18 [1916] SWTAG: _info_: End SWTAGGING
+2016-10-07 09:17:18 [1916] SWTAG: _info_: ==========================================
+
+
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 09:17:18 [1916] SWTAG: _info_: ==========================================
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Start SWTAGGING productName=abc; licensingCode=FlashBuilder-CS5.5-Win-GM; locale=MUL; caller=1
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 09:17:18 [1916] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 09:17:18 [1916] SWTAG: _info_: End SWTAGGING
+2016-10-07 09:17:18 [1916] SWTAG: _info_: ==========================================
+
+
+2016-10-07 09:28:22 [2348] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 09:28:22 [2348] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 09:28:22 [2348] SWTAG: _info_: ==========================================
+2016-10-07 09:28:22 [2348] SWTAG: _info_: Start SWTAGGING productName=Adobe Premiere Pro CC 2015; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-07 09:28:22 [2348] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 09:28:22 [2348] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 09:28:22 [2348] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 09:28:22 [2348] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 09:28:22 [2348] SWTAG: _info_: End SWTAGGING
+2016-10-07 09:28:22 [2348] SWTAG: _info_: ==========================================
+
+
+2016-10-07 09:53:06 [4716] SWTAG: _info_: ==========================================
+2016-10-07 09:53:06 [4716] SWTAG: _info_: Start SWTAGGING productName=Acrobat Pro; productAdobeCode={AC76BA86-1028-0000-7760-000000000004}; driverName=Acrobat Pro; driverAdobeCode={AC76BA86-1028-0000-7760-000000000004}
+2016-10-07 09:53:06 [4716] SWTAG: _info_: Reading existing C:\ProgramData\Adobe\ISO-19770\Acrobat Pro-{AC76BA86-1028-0000-7760-000000000004}.swtag file
+2016-10-07 09:53:06 [4716] SWTAG: _info_: Updated existing C:\ProgramData\Adobe\ISO-19770\Acrobat Pro-{AC76BA86-1028-0000-7760-000000000004}.swtag file
+2016-10-07 09:53:06 [4716] SWTAG: _info_: End SWTAGGING
+2016-10-07 09:53:06 [4716] SWTAG: _info_: ==========================================
+
+
+2016-10-07 09:53:13 [4716] SWTAG: _info_: ==========================================
+2016-10-07 09:53:13 [4716] SWTAG: _info_: Start SWTAGGING productName=Acrobat Pro; productAdobeCode={AC76BA86-1028-0000-7760-000000000004}; driverName=Acrobat Pro; driverAdobeCode={AC76BA86-1028-0000-7760-000000000004}
+2016-10-07 09:53:13 [4716] SWTAG: _info_: Reading existing C:\ProgramData\Adobe\ISO-19770\Acrobat Pro-{AC76BA86-1028-0000-7760-000000000004}.swtag file
+2016-10-07 09:53:13 [4716] SWTAG: _info_: End SWTAGGING
+2016-10-07 09:53:13 [4716] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:07:38 [1144] SWTAG: _info_: ==========================================
+2016-10-07 10:07:38 [1144] SWTAG: _info_: Start SWTAGGING productName=Acrobat Pro; productAdobeCode={AC76BA86-1028-0000-7760-000000000004}; driverName=Acrobat Pro; driverAdobeCode={AC76BA86-1028-0000-7760-000000000004}
+2016-10-07 10:07:38 [1144] SWTAG: _info_: Reading existing C:\ProgramData\Adobe\ISO-19770\Acrobat Pro-{AC76BA86-1028-0000-7760-000000000004}.swtag file
+2016-10-07 10:07:38 [1144] SWTAG: _info_: Updated existing C:\ProgramData\Adobe\ISO-19770\Acrobat Pro-{AC76BA86-1028-0000-7760-000000000004}.swtag file
+2016-10-07 10:07:38 [1144] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:07:38 [1144] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:11:12 [1228] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:11:12 [1228] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:11:12 [1228] SWTAG: _info_: ==========================================
+2016-10-07 10:11:12 [1228] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC 2015; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-07 10:11:12 [1228] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:11:12 [1228] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:11:12 [1228] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:11:12 [1228] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:11:12 [1228] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:11:12 [1228] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:11:19 [1228] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:11:19 [1228] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:11:19 [1228] SWTAG: _info_: ==========================================
+2016-10-07 10:11:19 [1228] SWTAG: _info_: Start SWTAGGING productName=Adobe Photoshop CC 2015; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-07 10:11:19 [1228] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:11:19 [1228] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:11:19 [1228] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:11:19 [1228] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:11:19 [1228] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:12:52 [5528] SWTAG: _info_: ==========================================
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Start SWTAGGING productName=abc; licensingCode=AcrobatPro-AS1-Win-GM; locale=MUL; caller=1
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:12:52 [5528] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:12:52 [5528] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:12:52 [5528] SWTAG: _info_: ==========================================
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Start SWTAGGING productName=abc; licensingCode=FlashBuilder-CS5.5-Win-GM; locale=MUL; caller=1
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:12:52 [5528] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:12:52 [5528] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:12:52 [5528] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:12:53 [5528] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:12:53 [5528] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:12:53 [5528] SWTAG: _info_: ==========================================
+2016-10-07 10:12:53 [5528] SWTAG: _info_: Start SWTAGGING productName=; licensingCode=; locale=; caller=0
+2016-10-07 10:12:53 [5528] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:12:53 [5528] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:12:53 [5528] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:12:53 [5528] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:19:32 [6060] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:19:32 [6060] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:19:32 [6060] SWTAG: _info_: ==========================================
+2016-10-07 10:19:32 [6060] SWTAG: _info_: Start SWTAGGING productName=CS6 Master Collection; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-07 10:19:32 [6060] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:19:32 [6060] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:19:32 [6060] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:19:32 [6060] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:19:32 [6060] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:19:32 [6060] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:20:01 [6060] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:20:01 [6060] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:20:01 [6060] SWTAG: _info_: ==========================================
+2016-10-07 10:20:01 [6060] SWTAG: _info_: Start SWTAGGING productName=CS6 Master Collection; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-07 10:20:01 [6060] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:20:01 [6060] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:20:01 [6060] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:20:01 [6060] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:20:01 [6060] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:33:51 [5324] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:33:51 [5324] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:33:51 [5324] SWTAG: _info_: ==========================================
+2016-10-07 10:33:51 [5324] SWTAG: _info_: Start SWTAGGING productName=Adobe Flash CC 2015; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-07 10:33:51 [5324] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:33:51 [5324] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:33:51 [5324] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:33:51 [5324] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:33:51 [5324] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:33:51 [5324] SWTAG: _info_: ==========================================
+
+
+2016-10-07 10:33:58 [5324] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:33:58 [5324] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2016-10-07 10:33:58 [5324] SWTAG: _info_: ==========================================
+2016-10-07 10:33:58 [5324] SWTAG: _info_: Start SWTAGGING productName=Adobe Flash CC 2015; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2016-10-07 10:33:58 [5324] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:33:58 [5324] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2016-10-07 10:33:58 [5324] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2016-10-07 10:33:58 [5324] SWTAG: _info_: End SWTAGGING
+2016-10-07 10:33:58 [5324] SWTAG: _info_: ==========================================
+
+
+2017-03-13 12:22:43 [5828] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:22:43 [5828] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:22:43 [5828] SWTAG: _info_: ==========================================
+2017-03-13 12:22:43 [5828] SWTAG: _info_: Start SWTAGGING productName=Adobe Dreamweaver CC 2015; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2017-03-13 12:22:43 [5828] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:22:43 [5828] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:22:43 [5828] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:22:43 [5828] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:22:43 [5828] SWTAG: _info_: End SWTAGGING
+2017-03-13 12:22:43 [5828] SWTAG: _info_: ==========================================
+
+
+2017-03-13 12:22:45 [5828] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:22:45 [5828] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:22:45 [5828] SWTAG: _info_: ==========================================
+2017-03-13 12:22:45 [5828] SWTAG: _info_: Start SWTAGGING productName=Adobe Dreamweaver CC 2015; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2017-03-13 12:22:45 [5828] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:22:45 [5828] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:22:45 [5828] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:22:45 [5828] SWTAG: _info_: End SWTAGGING
+2017-03-13 12:22:45 [5828] SWTAG: _info_: ==========================================
+
+
+2017-03-13 12:23:48 [1660] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:23:48 [1660] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:23:48 [1660] SWTAG: _info_: ==========================================
+2017-03-13 12:23:48 [1660] SWTAG: _info_: Start SWTAGGING productName=CS6 Master Collection; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2017-03-13 12:23:48 [1660] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:23:48 [1660] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:23:48 [1660] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:23:48 [1660] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:23:48 [1660] SWTAG: _info_: End SWTAGGING
+2017-03-13 12:23:48 [1660] SWTAG: _info_: ==========================================
+
+
+2017-03-13 12:23:56 [1660] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:23:56 [1660] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:23:56 [1660] SWTAG: _info_: ==========================================
+2017-03-13 12:23:56 [1660] SWTAG: _info_: Start SWTAGGING productName=CS6 Master Collection; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2017-03-13 12:23:56 [1660] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:23:56 [1660] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:23:56 [1660] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:23:56 [1660] SWTAG: _info_: End SWTAGGING
+2017-03-13 12:23:56 [1660] SWTAG: _info_: ==========================================
+
+
+2017-03-13 12:28:17 [4904] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:28:17 [4904] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:28:17 [4904] SWTAG: _info_: ==========================================
+2017-03-13 12:28:17 [4904] SWTAG: _info_: Start SWTAGGING productName=CS6 Master Collection; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2017-03-13 12:28:17 [4904] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:28:17 [4904] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:28:17 [4904] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:28:17 [4904] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:28:17 [4904] SWTAG: _info_: End SWTAGGING
+2017-03-13 12:28:17 [4904] SWTAG: _info_: ==========================================
+
+
+2017-03-13 12:28:27 [4904] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:28:27 [4904] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:28:27 [4904] SWTAG: _info_: ==========================================
+2017-03-13 12:28:27 [4904] SWTAG: _info_: Start SWTAGGING productName=CS6 Master Collection; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2017-03-13 12:28:27 [4904] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:28:27 [4904] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:28:27 [4904] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:28:27 [4904] SWTAG: _info_: End SWTAGGING
+2017-03-13 12:28:27 [4904] SWTAG: _info_: ==========================================
+
+
+2017-03-13 12:28:35 [5780] SWTAG: _info_: Get privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:28:35 [5780] SWTAG: _info_: Set privilege info for "C:\Users\user\AppData\Local\Temp\swtag.log" returned 0
+2017-03-13 12:28:35 [5780] SWTAG: _info_: ==========================================
+2017-03-13 12:28:35 [5780] SWTAG: _info_: Start SWTAGGING productName=CS6 Master Collection; licensingCode=V7{}CreativeCloudEnt-1.0-Win-GM; locale=MUL; caller=1
+2017-03-13 12:28:35 [5780] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:28:35 [5780] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2017-03-13 12:28:35 [5780] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}CreativeCloudEnt-1.0-Win-GM-MUL.swidtag file
+2017-03-13 12:28:35 [5780] SWTAG: _info_: End SWTAGGING
+2017-03-13 12:28:35 [5780] SWTAG: _info_: ==========================================
+
+

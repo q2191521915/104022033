@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root>
+    <Scene horizonFlag="0" opacity="100" width="552" height="982" rotateAngle="0" id="com.nianticlabs.pokemongo">
+        <Item type="7" pos="157,88" width="240" height="234">
+            <Key value="87">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="65">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="83">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="68">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="81">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="69">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="-1">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="-2">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="-3">
+                <Point>0,0</Point>
+            </Key>
+            <Key value="-4">
+                <Point>0,0</Point>
+            </Key>
+        </Item>
+    </Scene>
+</Root>

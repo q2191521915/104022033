@@ -1,0 +1,234 @@
+
+Thu Jul 28 12:50:01 2016
+:: Creating secure directory for extracting CCT DLLs
+
+Thu Jul 28 12:50:01 2016
+:: -- The sponsor dll version is: 2.2.6.36
+
+Thu Jul 28 12:50:01 2016
+:: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Thu Jul 28 12:50:01 2016
+:: ----------------------------------------------
+
+Thu Jul 28 12:50:01 2016
+:: GetSponsorOffer(), started 7/28/2016 at 4:50
+
+Thu Jul 28 12:50:01 2016
+:: ----------------------------------------------
+
+Thu Jul 28 12:50:01 2016
+:: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Thu Jul 28 12:50:01 2016
+:: -- SetPreferenceList -- The preference order is: SP60;SP40;SP50;#US|SP40:25|SP60:75,GB|SP40:50|SP60:50,BR|SP40:50|SP60:50,CA|SP40:50|SP60:50,IE|SP40:50|SP60:50,DK|SP40:50|SP60:50,FI|SP40:50|SP60:50,FR|SP40:50|SP60:50,DE|SP40:50|SP60:50,NL|SP40:50|SP60:50,NO|SP40:50|SP60:50,SG|SP40:50|SP60:50,SE|SP40:50|SP60:50,CH|SP40:50|SP60:50,MY|SP40:50|SP60:50,AT|SP40:50|SP60:50,IT|SP40:50|SP60:50,ES|SP40:50|SP60:50,PH|SP40:50|SP60:50,HK|SP40:50|SP60:50,IN|SP40:50|SP60:50,MX|SP40:50|SP60:50,CO|SP40:50|SP60:50,TW|SP40:50|SP60:50,ID|SP40:50|SP60:50,VN|SP40:50|SP60:50,PE|SP40:50|SP60:50,VE|SP40:50|SP60:50,AR|SP40:50|SP60:50,CL|SP40:50|SP60:50,TH|SP40:50|SP60:50,AU|SP40:50|SP50:50,NZ|SP40:50|SP50:50,JP|SP40:50|SP50:50,ZA|SP40:50|SP50:50,AE|SP40:50|SP50:50,GR|SP40:50|SP50:50,PR|SP40:50|SP50:50,KW|SP40:50|SP50:50,QA|SP40:50|SP50:50,BE|SP40:50|SP50:50,IL|SP40:50|SP50:50,PL|SP40:50|SP50:50,SA|SP40:50|SP50:50,CZ|SP40:50|SP50:50,RU|SP40:50|SP50:50,RS|SP40:50|SP50:50,EG|SP40:50|SP50:50,HR|SP40:50|SP50:50,LT|SP40:50|SP50:50,MA|SP40:5
+
+Thu Jul 28 12:50:01 2016
+:: Loading YTB CCT from: C:\Users\user\AppData\LocalLow\Oracle\Java\jre1.8.0_101\java_sp\YSearchUtil.dll
+
+Thu Jul 28 12:50:01 2016
+:: Loading AMAZON CCT from: C:\Users\user\AppData\LocalLow\Oracle\Java\jre1.8.0_101\java_sp\amazoncct.dll
+
+Thu Jul 28 12:50:01 2016
+:: Loading YTB CCT from: C:\Users\user\AppData\LocalLow\Oracle\Java\jre1.8.0_101\java_sp\YSearchUtil.dll
+
+Thu Jul 28 12:50:01 2016
+:: -- CheckDefaultCriteria -- Begin internal CCT for SP60
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- Begin Country validation for SP60
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- Detected Country: TW
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- The Country is supported
+
+Thu Jul 28 12:50:01 2016
+:: -- IsOSSupported -- Begin OS validation for SP60
+
+Thu Jul 28 12:50:01 2016
+:: -- IsOSSupported -- OS is supported (OS validation for SP60 turned OFF)
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Begin browser validation for SP60
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Detected default browser: 1
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Default browser is supported (Browser validation for SP60 turned OFF)
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- Begin Locale validation for SP60
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- Detected locale: 1028
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- The Locale is supported
+
+Thu Jul 28 12:50:01 2016
+:: -- CheckDefaultCriteria -- Internal CCT for SP60 passed
+
+Thu Jul 28 12:50:01 2016
+:: -- Start in YTB::CheckCriteria --
+
+Thu Jul 28 12:50:01 2016
+:: nOfferBrowsers YTB value: 1
+
+Thu Jul 28 12:50:01 2016
+:: wzCmdLine value: /delay /yfrc_ie=yset_ie_syc_oracle /yhspart_ff=mozilla /yhsimp_ff=yhs-008 /yfrc_chr=yset_chr_syc_oracle /ytc=orcl_default /ytc_ff=default /ytchp=orcl_hpset /intl=tw /setie
+
+Thu Jul 28 12:50:01 2016
+:: nYahReasons YTB value: 0
+
+Thu Jul 28 12:50:01 2016
+:: nFFReasons Firefox value: 1
+
+Thu Jul 28 12:50:01 2016
+:: -- CheckDefaultCriteria -- Begin internal CCT for SP40
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- Begin Country validation for SP40
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- Detected Country: TW
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- The Country is supported
+
+Thu Jul 28 12:50:01 2016
+:: -- IsOSSupported -- Begin OS validation for SP40
+
+Thu Jul 28 12:50:01 2016
+:: -- IsOSSupported -- OS is supported (OS validation for SP40 turned OFF)
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Begin browser validation for SP40
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Detected default browser: 1
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Default browser is supported (Browser validation for SP40 turned OFF)
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- Begin Locale validation for SP40
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- Detected locale: 1028
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- The Locale is not supported
+
+Thu Jul 28 12:50:01 2016
+:: -- SetIS2Ping -- Successfully set: ,;s40|-135;;;event7=1
+
+Thu Jul 28 12:50:01 2016
+:: -- CheckDefaultCriteria -- Begin internal CCT for SP50
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- Begin Country validation for SP50
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- Detected Country: TW
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- The Country is not supported
+
+Thu Jul 28 12:50:01 2016
+:: -- IsCountrySupported -- Supported Countries: AU;JP;NZ;ZA;AE;PR;QA;GR;KW;BE;IL;PL;SA;CZ;RU;RS;EG;HR;LT;MA;BG;TN;PT;PK;EC;DZ;UY;NG;LK;EE;HU;RO;SI;TR;UA;KR;KZ;BD;
+
+Thu Jul 28 12:50:01 2016
+:: -- SetIS2Ping -- Successfully set: ,;s50|-131;;;event7=1
+
+Thu Jul 28 12:50:01 2016
+:: -- IsOSSupported -- Begin OS validation for SP50
+
+Thu Jul 28 12:50:01 2016
+:: -- IsOSSupported -- OS is supported (OS validation for SP50 turned OFF)
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Begin browser validation for SP50
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Detected default browser: 1
+
+Thu Jul 28 12:50:01 2016
+:: -- IsBrowserSupported -- Default browser is supported (Browser validation for SP50 turned OFF)
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- Begin Locale validation for SP50
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- Detected locale: 1028
+
+Thu Jul 28 12:50:01 2016
+:: -- IsLocaleSupported -- The Locale is not supported
+
+Thu Jul 28 12:50:01 2016
+:: -- ImportSponsorsOffered -- No sponsorsoffered key detected
+
+Thu Jul 28 12:50:01 2016
+:: -- ImportSponsorsOffered -- sponsors offered: 
+
+Thu Jul 28 12:50:01 2016
+:: -- DetermineSponsor -- begin
+
+Thu Jul 28 12:50:01 2016
+:: -- DetermineSponsor -- The PreferenceOrder is: SP60;SP40;SP50;
+
+Thu Jul 28 12:50:01 2016
+:: -- DetermineSponsor -- The RandomizationFormula is: US|SP40:25|SP60:75,GB|SP40:50|SP60:50,BR|SP40:50|SP60:50,CA|SP40:50|SP60:50,IE|SP40:50|SP60:50,DK|SP40:50|SP60:50,FI|SP40:50|SP60:50,FR|SP40:50|SP60:50,DE|SP40:50|SP60:50,NL|SP40:50|SP60:50,NO|SP40:50|SP60:50,SG|SP40:50|SP60:50,SE|SP40:50|SP60:50,CH|SP40:50|SP60:50,MY|SP40:50|SP60:50,AT|SP40:50|SP60:50,IT|SP40:50|SP60:50,ES|SP40:50|SP60:50,PH|SP40:50|SP60:50,HK|SP40:50|SP60:50,IN|SP40:50|SP60:50,MX|SP40:50|SP60:50,CO|SP40:50|SP60:50,TW|SP40:50|SP60:50,ID|SP40:50|SP60:50,VN|SP40:50|SP60:50,PE|SP40:50|SP60:50,VE|SP40:50|SP60:50,AR|SP40:50|SP60:50,CL|SP40:50|SP60:50,TH|SP40:50|SP60:50,AU|SP40:50|SP50:50,NZ|SP40:50|SP50:50,JP|SP40:50|SP50:50,ZA|SP40:50|SP50:50,AE|SP40:50|SP50:50,GR|SP40:50|SP50:50,PR|SP40:50|SP50:50,KW|SP40:50|SP50:50,QA|SP40:50|SP50:50,BE|SP40:50|SP50:50,IL|SP40:50|SP50:50,PL|SP40:50|SP50:50,SA|SP40:50|SP50:50,CZ|SP40:50|SP50:50,RU|SP40:50|SP50:50,RS|SP40:50|SP50:50,EG|SP40:50|SP50:50,HR|SP40:50|SP50:50,LT|SP40:50|SP50:50,MA|SP40:50|SP50:50,BG|SP40:50|SP50:50,TN|SP40:50|SP50:50,PT|SP40:50|SP50:50,PK|SP40:50|SP50:50,EC|SP40:50|SP50:50,DZ|SP40:50|SP50:50,UY|SP40:50|SP50:50,NG|SP40:50|SP50:50,LK|SP40:50|SP50:50,EE|SP40:50|SP50:50,HU|SP40:50|SP50:50,RO|SP40:50|SP50:50,SI|SP40:50|SP50:50,TR|SP40:50|SP50:50,UA|SP40:50|SP50:50,KR|SP40:50|SP50:50,KZ|SP40:50|SP50:50,BD|SP40:50|SP50:50;
+
+Thu Jul 28 12:50:01 2016
+:: -- DetermineSponsor -- The SponsorsOfferable are: SP60;
+
+Thu Jul 28 12:50:01 2016
+:: -- DetermineSponsor -- SponsorsOfferableNotAlreadyOffered are: ;SP60
+
+Thu Jul 28 12:50:01 2016
+:: -- SponsorsListInOrder --: SP60;
+
+Thu Jul 28 12:50:01 2016
+:: 
+FormulaString:SP40:50|SP60:50
+RandomNumber:36
+WinningMapping
+Winners:
+Losers:
+WinningSponsor:SP60
+PingString:
+
+Thu Jul 28 12:50:01 2016
+:: -- Sponsor Found! - WinningSponsor --: SP60
+
+Thu Jul 28 12:50:01 2016
+:: -- SetOfferCountKey --  Setting OfferedSPCnt
+
+Thu Jul 28 12:50:01 2016
+:: -- SetOfferCountKey -- Constructed value name: SP60Cnt
+
+Thu Jul 28 12:50:01 2016
+:: -- SetOfferCountKey --  Query of previous count failed!
+
+Thu Jul 28 12:50:01 2016
+::       --  Return: 2  Error: 183
+
+Thu Jul 28 12:50:01 2016
+:: -- SetInstallStatsKey
+
+Thu Jul 28 12:50:06 2016
+:: -- YTB::ShowOffer -- offer opt-out
+
+Thu Jul 28 12:50:06 2016
+:: -- SetIS2Ping -- Successfully set: ,;s60|-129;;;event7=1
+
+Thu Jul 28 12:50:06 2016
+:: -- SetOfferDeclineKey -- Constructed value name: SP60Dcl
+
+Thu Jul 28 12:50:36 2016
+:: Unable to delete sponsors dll directory

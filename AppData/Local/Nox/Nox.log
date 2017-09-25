@@ -1,0 +1,97 @@
+2017-05-01 09:22:25 [root]-[INFO] Start Nox Application V3.8.1.3 cmd: C:\Program Files (x86)\Nox\bin\Nox.exe -loadVm 
+2017-05-01 09:22:26 [root]-[INFO] check vm Drv count:0
+2017-05-01 09:22:29 [root]-[INFO] Start Nox Application V3.8.1.3 cmd: C:\Program Files (x86)\Nox\bin\Nox.exe 
+2017-05-01 09:22:29 [NoxPlayerWindow]-[INFO] is_show_last_screen: computer resolution is changed
+2017-05-01 09:22:29 [NoxPlayerWindow]-[INFO] is_show_last_screen: computer resolution is changed return
+2017-05-01 09:22:29 [LoadingPage]-[INFO] do not to load html!
+2017-05-01 09:22:29 [root]-[INFO] Rom set DPI: 320
+
+2017-05-01 09:22:29 [Utils]-[INFO] tasklist cmd pass....
+Nox.exe                       6200 Console                    1     95,988 K
+
+2017-05-01 09:22:32 [Utils]-[INFO] Kill 1NoxVMSVC.exe
+2017-05-01 09:22:32 [Utils]-[INFO] Kill 0BigNoxProxy.exe
+2017-05-01 09:22:32 [Utils]-[INFO] Kill 0NoxVMHandle.exe
+2017-05-01 09:22:32 [NoxPlayerWindow]-[INFO] vm:C:/Program Files (x86)/Nox/bin/../noxvm/NOXVM.exe
+2017-05-01 09:22:32 [HttpRequest]-[INFO] player install first
+2017-05-01 09:22:32 [NoxPlayerWindow]-[INFO] nox is not config
+2017-05-01 09:22:32 [VMClient]-[INFO] check_vm finded vm!
+2017-05-01 09:22:32 [HttpRequest]-[INFO] encrypt_local_mac mac=98:EE:CB:3A:E2:40 encry mac=bmt8i4tvhndqaXh+dmt/amM=
+2017-05-01 09:22:32 [HttpRequest]-[INFO] player first id=bmt8i4tvhndqaXh+dmt/amM=
+2017-05-01 09:22:32 [HttpRequest]-[INFO] player id:bmt8i4tvhndqaXh+dmt/amM=
+2017-05-01 09:22:32 [NoxPlayerWindow]-[INFO] pt:C:\Program Files (x86)\Bignox\BigNoxVM\RT/NOXa.dll
+2017-05-01 09:22:32 [NoxPlayerWindow]-[INFO] vm start begin
+2017-05-01 09:22:33 [NoxPlayerWindow]-[INFO] port_valid_check return true
+2017-05-01 09:22:33 [NoxPlayerWindow]-[INFO] vbox_host_udp_port_valid_check return true
+2017-05-01 09:22:33 [NoxPlayerWindow]-[INFO] Vm Starts OK
+2017-05-01 09:22:33 [ScreenBoard]-[INFO] input_management run
+
+2017-05-01 09:22:33 [NoxPlayerWindow]-[INFO] Vm Starts finish
+2017-05-01 09:22:33 [ScreenBoard]-[INFO] first start,start help app
+2017-05-01 09:22:33 [ScreenBoard]-[INFO] Input management connected!
+2017-05-01 09:22:44 [ScreenBoard]-[INFO] rom boot success!
+2017-05-01 09:22:44 [LoadingPage]-[INFO] nox start success!
+2017-05-01 09:22:44 [NoxPlayerWindow]-[INFO] set rm param
+2017-05-01 09:22:44 [NoxPlayerWindow]-[INFO] snapshot disabled,nox start success times= 0
+2017-05-01 09:22:47 [NoxPlayerWindow]-[INFO] after set rminfo andsime
+2017-05-01 09:22:48 [NoxPlayerWindow]-[INFO] get the timezone is:UTC+08:00
+2017-05-01 09:22:48 [NoxPlayerWindow]-[INFO] set timezone is :Asia/Shanghai
+2017-05-01 09:24:11 [AndroidClient]-[INFO] Install output: Success
+
+2017-05-01 09:24:43 [NoxPlayerWindow]-[INFO] enter close_window
+2017-05-01 09:24:43 [NoxPlayerWindow]-[INFO] share is not null 4096 4
+2017-05-01 09:24:43 [SingleApplication]-[INFO] receiveMessage exit application
+2017-05-01 09:24:43 [NoxPlayerWindow]-[INFO] enter close_window
+2017-05-01 09:24:43 [NoxPlayerWindow]-[INFO] share is not null 4096 4
+2017-05-01 09:24:44 [NoxPlayerWindow]-[INFO] shutdown_rom success
+2017-05-01 09:24:44 [NoxPlayerWindow]-[INFO] clean up env start
+2017-05-01 09:24:44 [Utils]-[INFO] tasklist cmd pass....
+Nox.exe                       6200 Console                    1    220,952 K
+
+2017-05-01 09:24:44 [NoxPlayerWindow]-[INFO] last running task, clean up env
+2017-05-01 09:24:44 [Utils]-[INFO] Kill 1nox_adb.exe
+2017-05-01 09:24:44 [Utils]-[INFO] Kill 1NoxVMSVC.exe
+2017-05-01 09:24:44 [Utils]-[INFO] Kill 0BigNoxProxy.exe
+2017-05-01 09:24:44 [Utils]-[INFO] Kill 0NoxVMHandle.exe
+2017-05-01 09:24:44 [NoxPlayerWindow]-[INFO] clean up finish
+2017-05-01 09:24:46 [root]-[INFO] Start Nox Application V3.8.1.3 cmd: Nox.exe C:\Program Files (x86)\Nox\bin\Nox.exe 
+2017-05-01 09:24:47 [NoxPlayerWindow]-[INFO] is_show_last_screen: computer resolution is changed
+2017-05-01 09:24:47 [NoxPlayerWindow]-[INFO] is_show_last_screen: computer resolution is changed return
+2017-05-01 09:24:47 [LoadingPage]-[INFO] do not to load html!
+2017-05-01 09:24:47 [root]-[INFO] Rom set DPI: 320
+
+2017-05-01 09:24:47 [Utils]-[INFO] tasklist cmd pass....
+Nox.exe                       4380 Console                    1     91,948 K
+
+2017-05-01 09:24:47 [Utils]-[INFO] Kill 1NoxVMSVC.exe
+2017-05-01 09:24:47 [Utils]-[INFO] Kill 0BigNoxProxy.exe
+2017-05-01 09:24:47 [Utils]-[INFO] Kill 0NoxVMHandle.exe
+2017-05-01 09:24:47 [NoxPlayerWindow]-[INFO] vm:C:/Program Files (x86)/Nox/bin/../noxvm/NOXVM.exe
+2017-05-01 09:24:47 [VMClient]-[INFO] check_vm finded vm!
+2017-05-01 09:24:47 [NoxPlayerWindow]-[INFO] pt:C:\Program Files (x86)\Bignox\BigNoxVM\RT/NOXa.dll
+2017-05-01 09:24:47 [NoxPlayerWindow]-[INFO] vm start begin
+2017-05-01 09:24:48 [NoxPlayerWindow]-[INFO] port_valid_check return true
+2017-05-01 09:24:48 [NoxPlayerWindow]-[INFO] vbox_host_udp_port_valid_check return true
+2017-05-01 09:24:48 [NoxPlayerWindow]-[INFO] Vm Starts OK
+2017-05-01 09:24:48 [ScreenBoard]-[INFO] input_management run
+
+2017-05-01 09:24:48 [NoxPlayerWindow]-[INFO] Vm Starts finish
+2017-05-01 09:24:48 [ScreenBoard]-[INFO] Input management connected!
+2017-05-01 09:24:58 [ScreenBoard]-[INFO] rom boot success!
+2017-05-01 09:24:58 [LoadingPage]-[INFO] nox start success!
+2017-05-01 09:24:58 [NoxPlayerWindow]-[INFO] set rm param
+2017-05-01 09:24:58 [NoxPlayerWindow]-[INFO] snapshot disabled,nox start success times= 1
+2017-05-01 09:25:23 [NoxPlayerWindow]-[INFO] oncloseclick msgbox check
+2017-05-01 09:25:24 [NoxPlayerWindow]-[INFO] enter close_window
+2017-05-01 09:25:24 [NoxPlayerWindow]-[INFO] share is not null 4096 4
+2017-05-01 09:25:25 [NoxPlayerWindow]-[INFO] shutdown_rom success
+2017-05-01 09:25:25 [NoxPlayerWindow]-[INFO] clean up env start
+2017-05-01 09:25:25 [Utils]-[INFO] tasklist cmd pass....
+Nox.exe                       4380 Console                    1    172,060 K
+
+2017-05-01 09:25:25 [NoxPlayerWindow]-[INFO] last running task, clean up env
+2017-05-01 09:25:25 [Utils]-[INFO] Kill 1nox_adb.exe
+2017-05-01 09:25:25 [Utils]-[INFO] Kill 1NoxVMSVC.exe
+2017-05-01 09:25:25 [Utils]-[INFO] Kill 0BigNoxProxy.exe
+2017-05-01 09:25:25 [Utils]-[INFO] Kill 0NoxVMHandle.exe
+2017-05-01 09:25:25 [NoxPlayerWindow]-[INFO] clean up finish

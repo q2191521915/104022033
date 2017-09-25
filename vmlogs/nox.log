@@ -1,0 +1,58 @@
+TIME     : 2017-05-01 09:24:47
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 5324
+
+
+TIME     : 2017-05-01 09:24:47
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 4628
+
+
+TIME     : 2017-05-01 09:24:47
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 1376
+
+
+TIME     : 2017-05-01 09:24:47
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 1272
+
+
+TIME     : 2017-05-01 09:24:47
+FILE     : VBoxApi.cpp
+FUNCTION : VB_FindMachine
+LINENUM  : 348
+DETAIL   : Machine "nox" has been found.
+
+TIME     : 2017-05-01 09:24:47
+FILE     : VBoxApi.cpp
+FUNCTION : VB_FindMachineEx
+LINENUM  : 314
+DETAIL   : Machine "nox" has been found.
+
+TIME     : 2017-05-01 09:24:48
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RemoveSharedFolder
+LINENUM  : 1603
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+
+TIME     : 2017-05-01 09:24:48
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RemoveSharedFolder
+LINENUM  : 1603
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+
+TIME     : 2017-05-01 09:24:48
+FILE     : VBoxApi.cpp
+FUNCTION : VB_RemoveSharedFolder
+LINENUM  : 1603
+DETAIL   : ErrorCode is "110". Detail : VB_ERR_REMOVE_SHAREDFOLDER_FAIL
+

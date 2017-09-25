@@ -1,0 +1,17 @@
+2017.5.1 09:22:16:839 install pack start
+2017.5.1 09:22:16:840 Versions£º3.8.0.0
+2017.5.1 09:22:17:203 uninst.exe path:C:\Program Files\Bignox\uninst.exe
+2017.5.1 09:22:17:753 Kill Process
+2017.5.1 09:22:17:763 Delete YSDrv or XQHDrv
+2017.5.1 09:22:18:306 Start Extract File
+2017.5.1 09:22:18:307 Extract file path:C:\Users\user\AppData\Local\NoxInsPackFileder_Ex\VmInsPack641493601737, install pathC:\Program Files (x86)
+2017.5.1 09:22:19:168 jy complete
+2017.5.1 09:22:19:169 Install Complete b
+2017.5.1 09:22:19:208 DPInst.exe path952:C:\Program Files (x86)\Bignox\BigNoxVM\RT\NOXSERVICE.exe
+2017.5.1 09:22:19:208 DPInst.exe path954:C
+2017.5.1 09:22:21:260 DPInst.exe path939:42
+2017.5.1 09:22:21:260 begin
+2017.5.1 09:22:21:260 ctlType = 1
+2017.5.1 09:22:21:375 service YSDrv is running
+2017.5.1 09:22:21:876 NOXSERVICE.exe exit
+2017.5.1 09:22:21:876 ControlSC:success

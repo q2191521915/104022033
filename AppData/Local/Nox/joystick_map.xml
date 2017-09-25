@@ -1,0 +1,22 @@
+{
+    "KEY_A": "76,76",
+    "KEY_B": "59,186",
+    "KEY_LB": "50,50",
+    "KEY_RB": "56,56",
+    "KEY_X": "75,75",
+    "KEY_Y": "79,79",
+    "POV_BACKWARD": "83,83",
+    "POV_FORWARD": "87,87",
+    "POV_LEFT": "65,65",
+    "POV_RIGHT": "68,68",
+    "R_NEGATIVE": "74,74",
+    "R_POSITIVE": "77,77",
+    "U_NEGATIVE": "78,78",
+    "U_POSITIVE": "44,188",
+    "X_NEGATIVE": "67,67",
+    "X_POSITIVE": "66,66",
+    "Y_NEGATIVE": "70,70",
+    "Y_POSITIVE": "86,86",
+    "Z_NEGATIVE": "55,55",
+    "Z_POSITIVE": "49,49"
+}
